@@ -1,4 +1,4 @@
-# ANSI C Learning
+# ANSI <img src="https://skillicons.dev/icons?i=c"/> Learning
 
 A personal learning repository based on **The C Programming Language (Second Edition)** by Brian W. Kernighan and Dennis M. Ritchie.
 
